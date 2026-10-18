@@ -1,0 +1,63 @@
+
+# Workstation IP Address Troubleshooting
+
+## Overview
+Investigated an unexpected IP address assignment
+while working with a network switch and wireless
+access point installation.
+
+## Environment
+- Office Ethernet Infrastructure
+- TP-Link PoE Switch
+- Wireless Access Point
+- Windows Workstation
+- Network-Connected Desk Phone
+
+## Initial Problem
+A workstation received an unexpected IP address
+after changes to the network connection.
+
+The computer also displayed an unexpected network
+name, raising questions about which network
+was providing its connectivity.
+
+## Troubleshooting Process
+1. Reviewed physical Ethernet connections.
+2. Examined connections between the network
+   outlet, PoE switch, and wireless access point.
+3. Inspected the workstation's network information.
+4. Tested connectivity using network diagnostics.
+5. Investigated the workstation's network path.
+6. Identified the desk phone as an important
+   part of the workstation's connection.
+7. Discovered that the ethernet cable run went to the switch connected to the Comcast Router instead of the usual switch that leads to the AT&T Router.
+
+## Key Finding
+The workstation connected through a network desk
+phone rather than directly to the wall outlet.
+
+This introduced another device into the network
+path that needed to be considered when
+investigating the unexpected IP assignment.
+
+Certain runs can lead to different switches connected to different routers.
+
+## Lessons Learned
+- Always verify the complete physical network path.
+- Desk phones may provide Ethernet passthrough.
+- Voice and data networks may use different VLANs.
+- Unexpected IP addresses can indicate differences
+  in DHCP or network configuration.
+- Physical topology matters during troubleshooting.
+
+## Skills Demonstrated
+- Network Troubleshooting
+- Ethernet Connectivity
+- IP Address Analysis
+- DHCP Fundamentals
+- Network Topology Investigation
+
+## Confidentiality
+All network details are generalized.
+No internal IP addresses, credentials, or
+sensitive network diagrams are included.
