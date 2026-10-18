@@ -74,6 +74,41 @@ commercial office and construction environment.
 - DHCP & IP Troubleshooting
 - Network Diagnostics
 
+### Business Network & VoIP Support
+
+#### Equipment & Technologies
+- Comcast Business Internet
+- AT&T Networking Equipment
+- Edgewater Router / VoIP Infrastructure
+- Ethernet Switches
+- VoIP Desk Phones
+- TCP/IP Networking
+
+#### My Responsibilities
+- Provide first-line troubleshooting for business
+  internet and VoIP connectivity issues.
+- Support network connections between routers,
+  switches, desk phones, and workstations.
+- Investigate network problems independently
+  before escalating to the service provider.
+- Coordinate with Comcast technical support
+  when issues require provider-level access.
+- Support ongoing connectivity for office
+  employees and business phone systems.
+
+#### Technical Experience
+- Network Connectivity Troubleshooting
+- VoIP Infrastructure Support
+- ISP Technical Support Coordination
+- Network Hardware Diagnostics
+- Incident Investigation & Escalation
+
+#### Access Limitations
+The Edgewater router is managed by Comcast.
+Administrative access is restricted, so advanced
+configuration changes require provider assistance.
+
+
 ## Case Studies
 See the case-studies folder for documented
 networking problems and troubleshooting experiences.
